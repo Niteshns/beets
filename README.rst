@@ -22,9 +22,9 @@ Steps we took to do the test:
 4. After the testing, we ran the command: "coverage report" to get the coverage test results.
 
 <Show the coverage results provided by the existing tool with a screenshot>
-![Screenshot part 1](screenshots/coverage tool-part1.png)
-![Screenshot part 2](screenshots/coverage tool-part 2.png)
-![Screenshot part 3](screenshots/coverage tool-part3.png)
+![Screenshot part 1](https://github.com/screenshots/coverage tool-part1.png)
+![Screenshot part 2](https://github.com/screenshots/coverage tool-part 2.png)
+![Screenshot part 3](https://github.com/screenshots/coverage tool-part3.png)
 
 ### Your own coverage tool
 
