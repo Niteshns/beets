@@ -14,7 +14,12 @@ Programming language: Python
 
 ### Existing tool
 
-<Inform the name of the existing tool that was executed and how it was executed>
+We used the tool Coverage.py.
+Steps we took to do the test:
+1. Enter the repository path in vscode.
+2. Inside the repository, we went to path "/test"
+3. We then executed the coverage tool on the inbuild unit tester with the command: "coverage run testall.py"
+4. After the testing, we ran the command: "coverage report" to get the coverage test results.
 
 <Show the coverage results provided by the existing tool with a screenshot>
 
