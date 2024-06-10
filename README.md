@@ -21,12 +21,16 @@ Steps we took to do the test:
 3. We then executed the coverage tool on the inbuild unit tester with the command: "coverage run testall.py".
 4. After the testing, we ran the command: "coverage report" to get the coverage test results.
 
-<Show the coverage results provided by the existing tool with a screenshot>
+Screenshot of coverage results.
 
 ### Screenshot part 1
 ![Screenshot part 1](https://raw.githubusercontent.com/Niteshns/beets/master/screenshots/coverage_tool-part1.png)
-(https://raw.githubusercontent.com/Niteshns/beets/master/screenshots/coverage_tool-part2.png)
-(https://raw.githubusercontent.com/Niteshns/beets/master/screenshots/coverage_tool-part3.png)
+### Screenshot part 2
+![Screenshot part 2](https://raw.githubusercontent.com/Niteshns/beets/master/screenshots/coverage_tool-part2.png)
+
+### Screenshot part 3
+![Screenshot part 3](https://raw.githubusercontent.com/Niteshns/beets/master/screenshots/coverage_tool-part3.png)
+
 ### Your own coverage tool
 
 <The following is supposed to be repeated for each group member>
