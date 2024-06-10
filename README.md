@@ -21,7 +21,7 @@ Steps we took to do the test:
 3. We then executed the coverage tool on the inbuild unit tester with the command: "coverage run testall.py".
 4. After the testing, we ran the command: "coverage report" to get the coverage test results.
 
-Screenshot of coverage results.
+## Screenshot of coverage results:
 
 ### Screenshot part 1
 ![Screenshot part 1](https://raw.githubusercontent.com/Niteshns/beets/master/screenshots/coverage_tool-part1.png)
