@@ -22,6 +22,8 @@ Steps we took to do the test:
 4. After the testing, we ran the command: "coverage report" to get the coverage test results.
 
 <Show the coverage results provided by the existing tool with a screenshot>
+
+### Screenshot part 1
 ![Screenshot part 1](https://raw.githubusercontent.com/Niteshns/beets/master/screenshots/coverage_tool-part1.png)
 
 ### Screenshot part 2
