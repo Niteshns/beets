@@ -25,12 +25,8 @@ Steps we took to do the test:
 
 ### Screenshot part 1
 ![Screenshot part 1](https://raw.githubusercontent.com/Niteshns/beets/master/screenshots/coverage_tool-part1.png)
-
-### Screenshot part 2
-![Screenshot part 2](https://raw.githubusercontent.com/Niteshns/beets/master/screenshots/coverage_tool-part2.png)
-
-### Screenshot part 3
-![Screenshot part 3](https://raw.githubusercontent.com/Niteshns/beets/master/screenshots/coverage_tool-part3.png)
+(https://raw.githubusercontent.com/Niteshns/beets/master/screenshots/coverage_tool-part2.png)
+(https://raw.githubusercontent.com/Niteshns/beets/master/screenshots/coverage_tool-part3.png)
 ### Your own coverage tool
 
 <The following is supposed to be repeated for each group member>
