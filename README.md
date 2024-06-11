@@ -6,7 +6,7 @@ Name: beets
 
 URL: https://github.com/beetbox/beets.git
 
-Number of lines of code and the tool used to count it: Used lizard in vscode to count the lines of code. Number of lines: 57085.
+We used lizard in VScode to count the lines of code. The number of lines was: 113408(In Python 48992 lines because 43% of the project is Python).
 
 Programming language: Python
 
@@ -18,7 +18,7 @@ We used the tool Coverage.py.
 Steps we took to do the test:
 1. Enter the repository path in vscode.
 2. Inside the repository, we went to path "/test".
-3. We then executed the coverage tool on the inbuild unit tester with the command: "coverage run testall.py".
+3. We then executed the coverage tool on the inbuild unit tester with the command: "coverage run .".
 4. After the testing, we ran the command: "coverage report" to get the coverage test results.
 
 ## Screenshot of coverage results:
